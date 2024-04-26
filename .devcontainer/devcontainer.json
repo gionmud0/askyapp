@@ -1,0 +1,23 @@
+{
+  "image": {
+    "mcr.microsoft.com/devcontainers/universal:2",
+    "ghcr.io/elanhasson/devcontainer-features/dotnet-aspire-daily:1",
+    "ghcr.io/devcontainers-contrib/features/amplify-cli:2",
+    "ghcr.io/devcontainers/features/anaconda:1",
+    "ghcr.io/hspaans/devcontainer-features/ansible-lint:1",
+    "ghcr.io/jarrodcolburn/features/android-sdk:0",
+    "ghcr.io/devcontainers-contrib/features/activemq-sdkman:2",
+    "ghcr.io/kreemer/features/chrometesting:1":
+    
+  },
+  
+  "features": {
+    "ghcr.io/brokenpip3/devcontainers-bats/bats-libs:0" {
+      "ghcr.io/devcontainers-contrib/features/activemq-sdkman:2":,
+      "ghcr.io/devcontainers-contrib/features/btrace-sdkman:2":
+    },
+    "ghcr.io/jarrodcolburn/features/android-sdk:0",
+    "ghcr.io/jasonthedeveloper/features/sbom:1":,
+    "ghcr.io/devcontainers-contrib/features/atlantis:1":
+  }
+  }
