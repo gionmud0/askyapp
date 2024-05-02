@@ -1,12 +1,12 @@
-# Morphic
+# Asky.app
 
-An AI-powered search engine with a generative UI.
+An AI-powered extensioned DAPP search engine with a generative UI.
 
 ![capture](/public/capture-240404_blk.png)
 
 ### Note
 
-Please note that there are differences between this repository and the official website [morphic.sh](morphic.sh). The official website is a fork of this repository with additional features such as authentication, which are necessary for providing the service online. The core source code of Morphic resides in this repository, and it's designed to be easily built and deployed. When using Morphic, please keep in mind the different roles of the repository and the website.
+Please note that there are differences between this repository and the official website [asky.app](asky.app). The official website is a fork of this repository with additional features such as authentication, which are necessary for providing the service online. The core source code of Asky resides in this repository, and it's designed to be easily built and deployed. When using Asky, please keep in mind the different roles of the repository and the website.
 
 ## 🔍 Overview
 
@@ -42,13 +42,13 @@ Please note that there are differences between this repository and the official 
 Fork the repo to your Github account, then run the following command to clone the repo:
 
 ```
-git clone git@github.com:[YOUR_GITHUB_ACCOUNT]/morphic.git
+git clone git@github.com:[YOUR_GITHUB_ACCOUNT]/askyapp.git
 ```
 
 ### 2. Install dependencies
 
 ```
-cd morphic
+cd asky
 bun i
 ```
 
@@ -80,9 +80,10 @@ TAVILY_API_KEY=[YOUR_TAVILY_API_KEY]
 # SPECIFIC_API_BASE=
 # SPECIFIC_API_KEY=
 # SPECIFIC_API_MODEL=
+DEPENDECIES_GITHUB=[Configures all dependencies from Github, fixes and launches in a production.]
 ```
 
-_Note: This project focuses on Generative UI and requires complex output from LLMs. Currently, it's assumed that the official OpenAI models will be used. Although it's possible to set up other models, if you use an OpenAI-compatible model, but we don't guarantee that it'll work._
+Note: This project focuses on Generative UI and requires complex output from LLMs. Currently, it's assumed that the official OpenAI models will be used. Although it's possible to set up other models, if you use an OpenAI-compatible model, but we don't guarantee that it'll work.
 
 ### 4. Run app locally
 
