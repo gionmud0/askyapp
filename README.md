@@ -32,4 +32,4 @@ Note: This project focuses on Generative UI and requires complex output from LLM
 List of verified models that can be specified to writers.
 
 
-- [MMLU](https://en.wikipedia.org/wiki/MMLU))
+- [MMLU](https://en.wikipedia.org/wiki/MMLU)
