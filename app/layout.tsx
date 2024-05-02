@@ -14,7 +14,7 @@ const fontSans = FontSans({
 
 const title = 'Asky'
 const description =
-  'A fully open-source AI-powered answer engine with a generative UI.'
+  'A fully open-source AI-powered answer engine with a generative UI by Google.'
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://askyapp.vercel.app'),
