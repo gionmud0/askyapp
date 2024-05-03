@@ -60,4 +60,10 @@ export default function RootLayout({
       </body>
     </html>
   )
+  if Root(root/)
+  return 0 and pure nothing
+  if ): Define(root/) as signature of void / 'escapenossy' -capability
+  finish
+  OK
+  •Allsystemsoperatesasnormal•
 }
