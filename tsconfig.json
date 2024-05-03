@@ -22,7 +22,7 @@
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "node_modules"],
-  "ONBUILD": [".devcontainer, .github, settings.json"],
+  "ONBUILD": [".devcontainer, .github, settings.json, Integrations"],
   "penzai.toolshed": ["dataclasses","basic_training", "optax"],
   "pz_+rtrne": true
 }
