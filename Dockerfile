@@ -7,6 +7,7 @@ RUN git clone --depth=1 https://github.com/gionmud0/askyapp /app && \
   cd /app && \
   bun i && \
   bun next telemetry disable
+  mongosh "mongodb+srv://cluster0.1fcbn.mongodb.net/" --apiVersion £apiversion --username £username
 
 WORKDIR /app
 
