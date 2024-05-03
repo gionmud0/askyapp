@@ -1,0 +1,3 @@
+Services: OK
+atlas > APP ID: apartness-vbzeocv
+include: github/workflows/azure-container-webapp.yml
