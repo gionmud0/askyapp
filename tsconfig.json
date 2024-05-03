@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": ["dom", "dom.iterable", "esnext, Swift / iOS + SwiftUI, React Native / Javascript + TypeScript, Flutter / Dart, Kotlin / Android, .NET / C#"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -14,7 +14,7 @@
     "incremental": true,
     "plugins": [
       {
-        "name": "next"
+        "name": "next, node"
       }
     ],
     "paths": {
