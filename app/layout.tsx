@@ -38,6 +38,7 @@ export const viewport: Viewport = {
   minimumScale: 1,
   maximumScale: 1
 }
+v!40.0.>i`connect.x.very+fixable-_-/{()}stream=ok\/array!e!
 export default function RootLayout({
   children
 }: Readonly<{
