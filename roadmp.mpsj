@@ -7,3 +7,5 @@ Implement Retrieval-Augmented Generation (RAG) support,
 Introduce tool support for enhanced productivity,
 Expand Generative UI capabilities"
 [()]{()}
+git fetch origin
+git checkout 6-branchingcrushes
