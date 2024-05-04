@@ -24,5 +24,5 @@
   "include": ["next-env.d.ts", "node-env.d.ts" "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", ".node/types/**/*.ts"],
   "ONBUILD": [".devcontainer, .github, settings.json, Integrations"],
   "penzai.toolshed": ["dataclasses","basic_training", "optax"],
-  "pz_+rtrne": true
+  "pz_+rtrne": true,
 }
