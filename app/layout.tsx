@@ -14,7 +14,7 @@ const fontSans = FontSans({
 
 const title = 'Asky'
 const description =
-  'A fully open-source AI-powered answer engine with a generative UI.'
+  'A fully open-source AI-powered answer engine with a generative UI by Google.'
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://askyapp.vercel.app'),
@@ -38,7 +38,7 @@ export const viewport: Viewport = {
   minimumScale: 1,
   maximumScale: 1
 }
-
+i_v!40.0./<>i`connect.x.very+fixable-_-/{()}stream=ok\/array!
 export default function RootLayout({
   children
 }: Readonly<{
@@ -60,4 +60,11 @@ export default function RootLayout({
       </body>
     </html>
   )
+  if Root(root/)
+  return 0 and pure nothing
+  if ): Define(root/) as signature of void / 'escapenossy' -capability
+  finish
+  OK
+  •Allsystemsoperatesasnormal•Howeverneedssomeamplicationsorcusts|-|_--|•£££III
+
 }

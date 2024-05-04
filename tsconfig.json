@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": ["dom", "dom.iterable", "esnext", "Swift / iOS + SwiftUI", "React Native / Javascript + TypeScript", "Flutter / Dart", "Kotlin / Android", ".NET / C#"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -14,13 +14,15 @@
     "incremental": true,
     "plugins": [
       {
-        "name": "next"
+        "name": "next, node"
       }
     ],
     "paths": {
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "node_modules"],
-  "ONBUILD": [".devcontainer, .github, settings.json"]
+  "include": ["next-env.d.ts", "node-env.d.ts" "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", ".node/types/**/*.ts"],
+  "ONBUILD": [".devcontainer, .github, settings.json, Integrations"],
+  "penzai.toolshed": ["dataclasses","basic_training", "optax"],
+  "pz_+rtrne": true
 }
