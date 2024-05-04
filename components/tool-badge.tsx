@@ -1,7 +1,6 @@
 import React from 'react'
 import { Search } from 'lucide-react'
 import { Badge } from './ui/badge'
-import shares
 
 type ToolBadgeProps = {
   tool: string
