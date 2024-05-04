@@ -1,0 +1,7 @@
+version: new
+updates:
+  - package-ecosystem: git
+    directory: /
+    schedule:
+      interval: daily
+
