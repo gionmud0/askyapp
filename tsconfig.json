@@ -21,7 +21,7 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["*env.d.ts", "**/*.ts", "**/*.tsx", "*/types/**/*.ts"],
+  "include": ["*env", "**/*.ts", "**/*.tsx", "*/types/**/*.ts"],
   "ONBUILD": [".devcontainer, .github, settings.json, Integrations"],
   "penzai.toolshed": ["dataclasses","basic_training", "optax"],
   "pz_+rtrne": true,
