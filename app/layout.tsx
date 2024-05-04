@@ -38,7 +38,7 @@ export const viewport: Viewport = {
   minimumScale: 1,
   maximumScale: 1
 }
-v!40.0.>i`connect.x.very+fixable-_-/{()}stream=ok\/array!e!
+i_v!40.0./<>i`connect.x.very+fixable-_-/{()}stream=ok\/array!
 export default function RootLayout({
   children
 }: Readonly<{
@@ -65,6 +65,6 @@ export default function RootLayout({
   if ): Define(root/) as signature of void / 'escapenossy' -capability
   finish
   OK
-  •Allsystemsoperatesasnormal•Howeverneedssomeamplicationsorcusts|-|_--|•££II
+  •Allsystemsoperatesasnormal•Howeverneedssomeamplicationsorcusts|-|_--|•£££III
 
 }
