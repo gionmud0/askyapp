@@ -8,13 +8,6 @@ An AI-powered extensioned DAPP search engine with a generative UI by Google.
 
 Please note that there are differences between this repository and the official website [asky.app](asky.app). The official website is a fork of this repository with additional features such as authentication, which are necessary for providing the service online. The core source code of Asky resides in this repository, and it's designed to be easily built and deployed. When using Asky, please keep in mind the different roles of the repository and the website.
 
-## 🔍 Overview
-
-- 🧱 [Stack](#-stack)
-- 🚀 [Quickstart](#-quickstart)
-- 🌐 [Deploy](#-deploy)
-- ✅ [Verified models](#-verified-models)
-
 ## 🧱 Stack
 
 - App framework: [Next.js](https://nextjs.org/)
