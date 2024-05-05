@@ -1,0 +1,1 @@
+github.actor == ('dependabot[bot]', 'pull_request', 'pull_request_review', 'pull_request_review_comment', 'deployment_status')
