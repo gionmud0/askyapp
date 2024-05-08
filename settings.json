@@ -3,7 +3,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
 {
-switch: {
+switcher: {
 title: true,
 },
 cases: {
@@ -14,7 +14,7 @@ related: true,
 follow-up: true,
 },
 extensions: {
-SocialShares_OnResultPage&QueryPage: {
+SocialShares_OnResultPage&Collapsible: {
 Social networks: Default,
 Get styles: true,
 Position: Default,
