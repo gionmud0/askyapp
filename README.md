@@ -10,7 +10,7 @@ Please note that there are differences between this repository and the official 
 
 ## 🔳 Frames
 
-- App frameworks: ["dom", "Swift", "React Native", "Flutter", "Kotlin", ".NET"]("Dom.ai", "Swift.com", "React.com", "Flutter.com", "Kotlin.com", "Net.com")
+- App frameworks: ["dom", "Swift", "React Native", "Flutter", "Kotlin", ".NET"]("Dom", "Swift", "React", "Flutter", "Kotlin", "Net")
 - Text streaming / Generative UI: [Vercel AI SDK](https://sdk.vercel.ai/docs)
 - Generative Model: [OpenAI](https://openai.com/)
 - Search API: [Tavily AI](https://tavily.com/)
