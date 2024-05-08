@@ -1,4 +1,22 @@
 {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+{
+switch: {
+title: true,
+},
+cases: {
+images: true,
+sources: false,
+answers: true,
+related: true,
+follow-up: true,
+},
+extensions: {
+SocialShares_OnResultPage&QueryPage: {
+Social networks: Default,
+Get styles: true,
+Position: Default,
+},
 }
